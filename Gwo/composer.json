@@ -1,0 +1,13 @@
+{
+  "name": "example/example",
+  "description": "Example task",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "require": {
+    "phpunit/phpunit": "6.5.7",
+    "squizlabs/php_codesniffer": "3.2.3"
+  },
+  "autoload": {
+    "psr-4": {"Gwo\\": ""}
+  }
+}
